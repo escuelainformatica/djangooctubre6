@@ -1,0 +1,10 @@
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <input type="file" name="file"><br>
+    <input type="submit"><br>
+    {% if archivo != None %}
+    <img src="/static/{{ archivo }}"/>
+    {% endif %}
+
+
+</form>

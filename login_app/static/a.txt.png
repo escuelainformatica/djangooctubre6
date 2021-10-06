@@ -1,0 +1,65 @@
+5567	1	Comprender y utilizar herramientas esenciales	2	Linux
+5568	0	Acceda a un símbolo del sistema de shell y emita comandos con la sintaxis correcta	4	Linux
+5569	0	Utilice la redirección de entrada-salida (>, >>, , 2>, etc.)	6	Linux
+5570	0	Utilice expresiones grep y regulares para analizar texto	8	Linux
+5571	0	Acceda a sistemas remotos mediante SSH	10	Linux
+5572	0	Inicie sesión y cambie de usuario en destinos multiusuario	12	Linux
+5573	0	Archivar, comprimir, desempaquetar y descomprimir archivos con tar, star, gzip y bzip2	14	Linux
+5574	0	Crear y editar archivos de texto	16	Linux
+5575	0	Crear, eliminar, copiar y mover archivos y directorios	18	Linux
+5576	0	Crear enlaces duros y suaves	20	Linux
+5577	0	Enumerar, establecer y cambiar los permisos estándar de ugo/rwx	22	Linux
+5578	0	Busque, lea y use la documentación del sistema, incluidos el hombre, la información y los archivos en /usr/share/doc	24	Linux
+5579	1	Operar sistemas en funcionamiento	26	Linux
+5580	0	Arranque, reinicie y apague un sistema normalmente	28	Linux
+5581	0	Arranque los sistemas en diferentes destinos manualmente	30	Linux
+5582	0	Interrumpir el proceso de arranque para obtener acceso a un sistema	32	Linux
+5583	0	Identificar procesos intensivos de CPU/memoria y eliminar procesos	34	Linux
+5584	0	Ajustar la programación del proceso	36	Linux
+5585	0	Administrar perfiles de ajuste	38	Linux
+5586	0	Localizar e interpretar los archivos de registro del sistema y los diarios	40	Linux
+5587	0	Conservar las revistas del sistema	42	Linux
+5588	0	Iniciar, detener y comprobar el estado de los servicios de red	44	Linux
+5589	0	Transfiera archivos de forma segura entre sistemas	46	Linux
+5590	1	Configurar el almacenamiento local	48	Linux
+5591	0	Enumerar, crear, eliminar particiones en discos MBR y GPT	50	Linux
+5592	0	Crear y eliminar volúmenes físicos	52	Linux
+5593	0	Asignar volúmenes físicos a grupos de volúmenes	54	Linux
+5594	0	Crear y eliminar volúmenes lógicos	56	Linux
+5595	0	Configure los sistemas para montar sistemas de archivos en el arranque mediante un ID (UUID) universalmente único o una etiqueta	58	Linux
+5596	0	Agregue nuevas particiones y volúmenes lógicos, e intercambie a un sistema de forma no destructiva	60	Linux
+5597	1	Crear y configurar sistemas de archivos	62	Linux
+5598	0	Cree, monte, desmonte y utilice sistemas de archivos vfat, ext4 y xfs	64	Linux
+5599	0	Montar y desmontar sistemas de archivos de red mediante NFS	66	Linux
+5600	0	Ampliar los volúmenes lógicos existentes	68	Linux
+5601	0	Crear y configurar directorios set-GID para la colaboración	70	Linux
+5602	0	Configurar la compresión de disco	72	Linux
+5603	0	Administrar almacenamiento en capas	74	Linux
+5604	0	Diagnosticar y corregir problemas de permisos de archivo	76	Linux
+5605	1	Implementar, configurar y mantener sistemas	78	Linux
+5606	0	Programar tareas usando at y cron	80	Linux
+5607	0	Iniciar y detener servicios y configurar servicios para que se inicien automáticamente en el arranque	82	Linux
+5608	0	Configurar sistemas para arrancar en un destino específico automáticamente	84	Linux
+5609	0	Configurar clientes de servicio de tiempo	86	Linux
+5610	0	Instale y actualice paquetes de software desde Red Hat Network, un repositorio remoto o desde el sistema de archivos local	88	Linux
+5611	0	Trabajar con flujos de módulos de paquetes	90	Linux
+5612	0	Modificar el gestor de arranque del sistema	92	Linux
+5613	1	Administrar redes básicas	94	Linux
+5614	0	Configurar direcciones IPv4 e IPv6	96	Linux
+5615	0	Configurar la resolución del nombre de host	98	Linux
+5616	0	Configure los servicios de red para que se inicien automáticamente durante el arranque	100	Linux
+5617	0	Restringir el acceso a la red mediante firewall-cmd/firewall	102	Linux
+5618	1	Administrar usuarios y grupos	104	Linux
+5619	0	Crear, eliminar y modificar cuentas de usuario local	106	Linux
+5620	0	Cambiar contraseñas y ajustar el envejecimiento de la contraseña para las cuentas de usuario local	108	Linux
+5621	0	Crear, eliminar y modificar grupos locales y pertenencias a grupos	110	Linux
+5622	0	Configurar el acceso de superusuario	112	Linux
+5623	1	Administrar la seguridad	114	Linux
+5624	0	Configure la configuración del firewall mediante firewall-cmd/firewalld	116	Linux
+5625	0	Crear y utilizar listas de control de acceso a archivos	118	Linux
+5626	0	Configurar la autenticación basada en claves para SSH	120	Linux
+5627	0	Establecer modos de aplicación y permisivos para SELinux	122	Linux
+5628	0	Enumerar e identificar el contexto de archivo y proceso de SELinux	124	Linux
+5629	0	Restaurar contextos de archivo predeterminados	126	Linux
+5630	0	Utilice la configuración booleana para modificar la configuración de SELinux del sistema	128	Linux
+5631	0	Diagnosticar y abordar las infracciones rutinarias de las políticas de SELinux	130	Linux

@@ -23,6 +23,8 @@ urlpatterns = [
     path('login/',login_app.views.LoginView.as_view()),
     path('pagina/',login_app.views.vista_ejemplo),
     path('listado/',login_app.views.vista_listado),
-    path('listado/<int:numpagina>/',login_app.views.vista_listado)
+    path('listado/<int:numpagina>/',login_app.views.vista_listado),
+    path('upload/',login_app.views.vista_upload)
+
 ]
 
